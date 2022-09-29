@@ -1,0 +1,12 @@
+C:\Users\BrajanE\Desktop\Practica Final\7 Ejercicios Encapsulamiento\7-1 Entidades\bin\Debug\net5.0\7-1 Entidades.deps.json
+C:\Users\BrajanE\Desktop\Practica Final\7 Ejercicios Encapsulamiento\7-1 Entidades\bin\Debug\net5.0\7-1 Entidades.dll
+C:\Users\BrajanE\Desktop\Practica Final\7 Ejercicios Encapsulamiento\7-1 Entidades\bin\Debug\net5.0\7-1 Entidades.pdb
+C:\Users\BrajanE\Desktop\Practica Final\7 Ejercicios Encapsulamiento\7-1 Entidades\obj\Debug\net5.0\7-1 Entidades.csproj.AssemblyReference.cache
+C:\Users\BrajanE\Desktop\Practica Final\7 Ejercicios Encapsulamiento\7-1 Entidades\obj\Debug\net5.0\7-1 Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrajanE\Desktop\Practica Final\7 Ejercicios Encapsulamiento\7-1 Entidades\obj\Debug\net5.0\7-1 Entidades.AssemblyInfoInputs.cache
+C:\Users\BrajanE\Desktop\Practica Final\7 Ejercicios Encapsulamiento\7-1 Entidades\obj\Debug\net5.0\7-1 Entidades.AssemblyInfo.cs
+C:\Users\BrajanE\Desktop\Practica Final\7 Ejercicios Encapsulamiento\7-1 Entidades\obj\Debug\net5.0\7-1 Entidades.csproj.CoreCompileInputs.cache
+C:\Users\BrajanE\Desktop\Practica Final\7 Ejercicios Encapsulamiento\7-1 Entidades\obj\Debug\net5.0\7-1 Entidades.dll
+C:\Users\BrajanE\Desktop\Practica Final\7 Ejercicios Encapsulamiento\7-1 Entidades\obj\Debug\net5.0\refint\7-1 Entidades.dll
+C:\Users\BrajanE\Desktop\Practica Final\7 Ejercicios Encapsulamiento\7-1 Entidades\obj\Debug\net5.0\7-1 Entidades.pdb
+C:\Users\BrajanE\Desktop\Practica Final\7 Ejercicios Encapsulamiento\7-1 Entidades\obj\Debug\net5.0\ref\7-1 Entidades.dll

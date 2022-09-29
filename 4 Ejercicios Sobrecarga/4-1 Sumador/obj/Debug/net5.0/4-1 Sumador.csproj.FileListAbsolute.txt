@@ -1,0 +1,12 @@
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-1 Sumador\bin\Debug\net5.0\4-1 Sumador.deps.json
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-1 Sumador\bin\Debug\net5.0\4-1 Sumador.dll
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-1 Sumador\bin\Debug\net5.0\4-1 Sumador.pdb
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-1 Sumador\obj\Debug\net5.0\4-1 Sumador.csproj.AssemblyReference.cache
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-1 Sumador\obj\Debug\net5.0\4-1 Sumador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-1 Sumador\obj\Debug\net5.0\4-1 Sumador.AssemblyInfoInputs.cache
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-1 Sumador\obj\Debug\net5.0\4-1 Sumador.AssemblyInfo.cs
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-1 Sumador\obj\Debug\net5.0\4-1 Sumador.csproj.CoreCompileInputs.cache
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-1 Sumador\obj\Debug\net5.0\4-1 Sumador.dll
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-1 Sumador\obj\Debug\net5.0\refint\4-1 Sumador.dll
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-1 Sumador\obj\Debug\net5.0\4-1 Sumador.pdb
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-1 Sumador\obj\Debug\net5.0\ref\4-1 Sumador.dll

@@ -1,0 +1,19 @@
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-7\bin\Debug\net5.0\3-7.exe
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-7\bin\Debug\net5.0\3-7.deps.json
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-7\bin\Debug\net5.0\3-7.runtimeconfig.json
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-7\bin\Debug\net5.0\3-7.runtimeconfig.dev.json
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-7\bin\Debug\net5.0\3-7.dll
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-7\bin\Debug\net5.0\3-7.pdb
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-7\bin\Debug\net5.0\3-7 Entidades.dll
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-7\bin\Debug\net5.0\3-7 Entidades.pdb
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-7\obj\Debug\net5.0\3-7.csproj.AssemblyReference.cache
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-7\obj\Debug\net5.0\3-7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-7\obj\Debug\net5.0\3-7.AssemblyInfoInputs.cache
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-7\obj\Debug\net5.0\3-7.AssemblyInfo.cs
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-7\obj\Debug\net5.0\3-7.csproj.CoreCompileInputs.cache
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-7\obj\Debug\net5.0\3-7.csproj.CopyComplete
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-7\obj\Debug\net5.0\3-7.dll
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-7\obj\Debug\net5.0\refint\3-7.dll
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-7\obj\Debug\net5.0\3-7.pdb
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-7\obj\Debug\net5.0\3-7.genruntimeconfig.cache
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-7\obj\Debug\net5.0\ref\3-7.dll

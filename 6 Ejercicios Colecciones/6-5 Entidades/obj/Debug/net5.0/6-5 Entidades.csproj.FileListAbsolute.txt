@@ -1,0 +1,5 @@
+C:\Users\BrajanE\Desktop\Practica Final\6 Ejercicios Colecciones\6-5 Entidades\obj\Debug\net5.0\6-5 Entidades.csproj.AssemblyReference.cache
+C:\Users\BrajanE\Desktop\Practica Final\6 Ejercicios Colecciones\6-5 Entidades\obj\Debug\net5.0\6-5 Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrajanE\Desktop\Practica Final\6 Ejercicios Colecciones\6-5 Entidades\obj\Debug\net5.0\6-5 Entidades.AssemblyInfoInputs.cache
+C:\Users\BrajanE\Desktop\Practica Final\6 Ejercicios Colecciones\6-5 Entidades\obj\Debug\net5.0\6-5 Entidades.AssemblyInfo.cs
+C:\Users\BrajanE\Desktop\Practica Final\6 Ejercicios Colecciones\6-5 Entidades\obj\Debug\net5.0\6-5 Entidades.csproj.CoreCompileInputs.cache

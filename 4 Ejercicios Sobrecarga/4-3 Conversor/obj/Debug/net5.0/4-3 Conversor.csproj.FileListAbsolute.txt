@@ -1,0 +1,12 @@
+C:\Users\BrajanE\Desktop\C#\Practica Final\4 Ejercicios Sobrecarga\4-3 Conversor\bin\Debug\net5.0\4-3 Conversor.deps.json
+C:\Users\BrajanE\Desktop\C#\Practica Final\4 Ejercicios Sobrecarga\4-3 Conversor\bin\Debug\net5.0\4-3 Conversor.dll
+C:\Users\BrajanE\Desktop\C#\Practica Final\4 Ejercicios Sobrecarga\4-3 Conversor\bin\Debug\net5.0\4-3 Conversor.pdb
+C:\Users\BrajanE\Desktop\C#\Practica Final\4 Ejercicios Sobrecarga\4-3 Conversor\obj\Debug\net5.0\4-3 Conversor.csproj.AssemblyReference.cache
+C:\Users\BrajanE\Desktop\C#\Practica Final\4 Ejercicios Sobrecarga\4-3 Conversor\obj\Debug\net5.0\4-3 Conversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrajanE\Desktop\C#\Practica Final\4 Ejercicios Sobrecarga\4-3 Conversor\obj\Debug\net5.0\4-3 Conversor.AssemblyInfoInputs.cache
+C:\Users\BrajanE\Desktop\C#\Practica Final\4 Ejercicios Sobrecarga\4-3 Conversor\obj\Debug\net5.0\4-3 Conversor.AssemblyInfo.cs
+C:\Users\BrajanE\Desktop\C#\Practica Final\4 Ejercicios Sobrecarga\4-3 Conversor\obj\Debug\net5.0\4-3 Conversor.csproj.CoreCompileInputs.cache
+C:\Users\BrajanE\Desktop\C#\Practica Final\4 Ejercicios Sobrecarga\4-3 Conversor\obj\Debug\net5.0\4-3 Conversor.dll
+C:\Users\BrajanE\Desktop\C#\Practica Final\4 Ejercicios Sobrecarga\4-3 Conversor\obj\Debug\net5.0\refint\4-3 Conversor.dll
+C:\Users\BrajanE\Desktop\C#\Practica Final\4 Ejercicios Sobrecarga\4-3 Conversor\obj\Debug\net5.0\4-3 Conversor.pdb
+C:\Users\BrajanE\Desktop\C#\Practica Final\4 Ejercicios Sobrecarga\4-3 Conversor\obj\Debug\net5.0\ref\4-3 Conversor.dll

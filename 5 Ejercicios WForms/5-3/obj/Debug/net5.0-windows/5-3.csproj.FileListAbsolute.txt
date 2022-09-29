@@ -1,0 +1,42 @@
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-3\bin\Debug\net5.0-windows\5-3.exe
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-3\bin\Debug\net5.0-windows\5-3.deps.json
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-3\bin\Debug\net5.0-windows\5-3.runtimeconfig.json
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-3\bin\Debug\net5.0-windows\5-3.runtimeconfig.dev.json
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-3\bin\Debug\net5.0-windows\5-3.dll
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-3\bin\Debug\net5.0-windows\5-3.pdb
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-3\obj\Debug\net5.0-windows\5-3.csproj.AssemblyReference.cache
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-3\obj\Debug\net5.0-windows\_5_3.FrmCotizador.resources
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-3\obj\Debug\net5.0-windows\5-3.csproj.GenerateResource.cache
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-3\obj\Debug\net5.0-windows\5-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-3\obj\Debug\net5.0-windows\5-3.AssemblyInfoInputs.cache
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-3\obj\Debug\net5.0-windows\5-3.AssemblyInfo.cs
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-3\obj\Debug\net5.0-windows\5-3.csproj.CoreCompileInputs.cache
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-3\obj\Debug\net5.0-windows\5-3.dll
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-3\obj\Debug\net5.0-windows\refint\5-3.dll
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-3\obj\Debug\net5.0-windows\5-3.pdb
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-3\obj\Debug\net5.0-windows\5-3.genruntimeconfig.cache
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-3\obj\Debug\net5.0-windows\ref\5-3.dll
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-3\bin\Debug\net5.0-windows\5-3 Cotizadora.dll
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-3\bin\Debug\net5.0-windows\5-3 Cotizadora.pdb
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-3\obj\Debug\net5.0-windows\5-3.csproj.CopyComplete
+C:\Users\BrajanE\Desktop\C#\Practica Final\5 Ejercicios WForms\5-3\bin\Debug\net5.0-windows\5-3.exe
+C:\Users\BrajanE\Desktop\C#\Practica Final\5 Ejercicios WForms\5-3\bin\Debug\net5.0-windows\5-3.deps.json
+C:\Users\BrajanE\Desktop\C#\Practica Final\5 Ejercicios WForms\5-3\bin\Debug\net5.0-windows\5-3.runtimeconfig.json
+C:\Users\BrajanE\Desktop\C#\Practica Final\5 Ejercicios WForms\5-3\bin\Debug\net5.0-windows\5-3.runtimeconfig.dev.json
+C:\Users\BrajanE\Desktop\C#\Practica Final\5 Ejercicios WForms\5-3\bin\Debug\net5.0-windows\5-3.dll
+C:\Users\BrajanE\Desktop\C#\Practica Final\5 Ejercicios WForms\5-3\bin\Debug\net5.0-windows\5-3.pdb
+C:\Users\BrajanE\Desktop\C#\Practica Final\5 Ejercicios WForms\5-3\bin\Debug\net5.0-windows\5-3 Cotizadora.dll
+C:\Users\BrajanE\Desktop\C#\Practica Final\5 Ejercicios WForms\5-3\bin\Debug\net5.0-windows\5-3 Cotizadora.pdb
+C:\Users\BrajanE\Desktop\C#\Practica Final\5 Ejercicios WForms\5-3\obj\Debug\net5.0-windows\5-3.csproj.AssemblyReference.cache
+C:\Users\BrajanE\Desktop\C#\Practica Final\5 Ejercicios WForms\5-3\obj\Debug\net5.0-windows\_5_3.FrmCotizador.resources
+C:\Users\BrajanE\Desktop\C#\Practica Final\5 Ejercicios WForms\5-3\obj\Debug\net5.0-windows\5-3.csproj.GenerateResource.cache
+C:\Users\BrajanE\Desktop\C#\Practica Final\5 Ejercicios WForms\5-3\obj\Debug\net5.0-windows\5-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrajanE\Desktop\C#\Practica Final\5 Ejercicios WForms\5-3\obj\Debug\net5.0-windows\5-3.AssemblyInfoInputs.cache
+C:\Users\BrajanE\Desktop\C#\Practica Final\5 Ejercicios WForms\5-3\obj\Debug\net5.0-windows\5-3.AssemblyInfo.cs
+C:\Users\BrajanE\Desktop\C#\Practica Final\5 Ejercicios WForms\5-3\obj\Debug\net5.0-windows\5-3.csproj.CoreCompileInputs.cache
+C:\Users\BrajanE\Desktop\C#\Practica Final\5 Ejercicios WForms\5-3\obj\Debug\net5.0-windows\5-3.csproj.CopyComplete
+C:\Users\BrajanE\Desktop\C#\Practica Final\5 Ejercicios WForms\5-3\obj\Debug\net5.0-windows\5-3.dll
+C:\Users\BrajanE\Desktop\C#\Practica Final\5 Ejercicios WForms\5-3\obj\Debug\net5.0-windows\refint\5-3.dll
+C:\Users\BrajanE\Desktop\C#\Practica Final\5 Ejercicios WForms\5-3\obj\Debug\net5.0-windows\5-3.pdb
+C:\Users\BrajanE\Desktop\C#\Practica Final\5 Ejercicios WForms\5-3\obj\Debug\net5.0-windows\5-3.genruntimeconfig.cache
+C:\Users\BrajanE\Desktop\C#\Practica Final\5 Ejercicios WForms\5-3\obj\Debug\net5.0-windows\ref\5-3.dll

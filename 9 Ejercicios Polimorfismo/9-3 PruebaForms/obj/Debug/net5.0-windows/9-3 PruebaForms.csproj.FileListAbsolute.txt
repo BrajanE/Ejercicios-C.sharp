@@ -1,0 +1,23 @@
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 PruebaForms\bin\Debug\net5.0-windows\9-3 PruebaForms.exe
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 PruebaForms\bin\Debug\net5.0-windows\9-3 PruebaForms.deps.json
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 PruebaForms\bin\Debug\net5.0-windows\9-3 PruebaForms.runtimeconfig.json
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 PruebaForms\bin\Debug\net5.0-windows\9-3 PruebaForms.runtimeconfig.dev.json
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 PruebaForms\bin\Debug\net5.0-windows\9-3 PruebaForms.dll
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 PruebaForms\bin\Debug\net5.0-windows\9-3 PruebaForms.pdb
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 PruebaForms\obj\Debug\net5.0-windows\9-3 PruebaForms.csproj.AssemblyReference.cache
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 PruebaForms\obj\Debug\net5.0-windows\_9_3_PruebaForms.FrmMenu.resources
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 PruebaForms\obj\Debug\net5.0-windows\9-3 PruebaForms.csproj.GenerateResource.cache
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 PruebaForms\obj\Debug\net5.0-windows\9-3 PruebaForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 PruebaForms\obj\Debug\net5.0-windows\9-3 PruebaForms.AssemblyInfoInputs.cache
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 PruebaForms\obj\Debug\net5.0-windows\9-3 PruebaForms.AssemblyInfo.cs
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 PruebaForms\obj\Debug\net5.0-windows\9-3 PruebaForms.csproj.CoreCompileInputs.cache
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 PruebaForms\obj\Debug\net5.0-windows\9-3 PruebaForms.dll
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 PruebaForms\obj\Debug\net5.0-windows\refint\9-3 PruebaForms.dll
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 PruebaForms\obj\Debug\net5.0-windows\9-3 PruebaForms.pdb
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 PruebaForms\obj\Debug\net5.0-windows\9-3 PruebaForms.genruntimeconfig.cache
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 PruebaForms\obj\Debug\net5.0-windows\ref\9-3 PruebaForms.dll
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 PruebaForms\bin\Debug\net5.0-windows\9-3 Entidades.dll
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 PruebaForms\bin\Debug\net5.0-windows\9-3 Entidades.pdb
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 PruebaForms\obj\Debug\net5.0-windows\9-3 PruebaForms.csproj.CopyComplete
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 PruebaForms\obj\Debug\net5.0-windows\_9_3_PruebaForms.FrmLLamador.resources
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 PruebaForms\obj\Debug\net5.0-windows\_9_3_PruebaForms.FrmMostrar.resources

@@ -1,0 +1,21 @@
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-2\bin\Debug\net5.0-windows\5-2.exe
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-2\bin\Debug\net5.0-windows\5-2.deps.json
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-2\bin\Debug\net5.0-windows\5-2.runtimeconfig.json
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-2\bin\Debug\net5.0-windows\5-2.runtimeconfig.dev.json
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-2\bin\Debug\net5.0-windows\5-2.dll
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-2\bin\Debug\net5.0-windows\5-2.pdb
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-2\bin\Debug\net5.0-windows\5-2 Registrate.dll
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-2\bin\Debug\net5.0-windows\5-2 Registrate.pdb
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-2\obj\Debug\net5.0-windows\5-2.csproj.AssemblyReference.cache
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-2\obj\Debug\net5.0-windows\_5_2.FrmRegistro.resources
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-2\obj\Debug\net5.0-windows\5-2.csproj.GenerateResource.cache
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-2\obj\Debug\net5.0-windows\5-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-2\obj\Debug\net5.0-windows\5-2.AssemblyInfoInputs.cache
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-2\obj\Debug\net5.0-windows\5-2.AssemblyInfo.cs
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-2\obj\Debug\net5.0-windows\5-2.csproj.CoreCompileInputs.cache
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-2\obj\Debug\net5.0-windows\5-2.csproj.CopyComplete
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-2\obj\Debug\net5.0-windows\5-2.dll
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-2\obj\Debug\net5.0-windows\refint\5-2.dll
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-2\obj\Debug\net5.0-windows\5-2.pdb
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-2\obj\Debug\net5.0-windows\5-2.genruntimeconfig.cache
+C:\Users\BrajanE\Desktop\Practica Final\5 Ejercicios WForms\5-2\obj\Debug\net5.0-windows\ref\5-2.dll

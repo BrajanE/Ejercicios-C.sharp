@@ -1,0 +1,12 @@
+C:\Users\BrajanE\Desktop\Practica Final\6 Ejercicios Colecciones\5-1 NumerosLocos\bin\Debug\net5.0\5-1 NumerosLocos.deps.json
+C:\Users\BrajanE\Desktop\Practica Final\6 Ejercicios Colecciones\5-1 NumerosLocos\bin\Debug\net5.0\5-1 NumerosLocos.dll
+C:\Users\BrajanE\Desktop\Practica Final\6 Ejercicios Colecciones\5-1 NumerosLocos\bin\Debug\net5.0\5-1 NumerosLocos.pdb
+C:\Users\BrajanE\Desktop\Practica Final\6 Ejercicios Colecciones\5-1 NumerosLocos\obj\Debug\net5.0\5-1 NumerosLocos.csproj.AssemblyReference.cache
+C:\Users\BrajanE\Desktop\Practica Final\6 Ejercicios Colecciones\5-1 NumerosLocos\obj\Debug\net5.0\5-1 NumerosLocos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrajanE\Desktop\Practica Final\6 Ejercicios Colecciones\5-1 NumerosLocos\obj\Debug\net5.0\5-1 NumerosLocos.AssemblyInfoInputs.cache
+C:\Users\BrajanE\Desktop\Practica Final\6 Ejercicios Colecciones\5-1 NumerosLocos\obj\Debug\net5.0\5-1 NumerosLocos.AssemblyInfo.cs
+C:\Users\BrajanE\Desktop\Practica Final\6 Ejercicios Colecciones\5-1 NumerosLocos\obj\Debug\net5.0\5-1 NumerosLocos.csproj.CoreCompileInputs.cache
+C:\Users\BrajanE\Desktop\Practica Final\6 Ejercicios Colecciones\5-1 NumerosLocos\obj\Debug\net5.0\5-1 NumerosLocos.dll
+C:\Users\BrajanE\Desktop\Practica Final\6 Ejercicios Colecciones\5-1 NumerosLocos\obj\Debug\net5.0\refint\5-1 NumerosLocos.dll
+C:\Users\BrajanE\Desktop\Practica Final\6 Ejercicios Colecciones\5-1 NumerosLocos\obj\Debug\net5.0\5-1 NumerosLocos.pdb
+C:\Users\BrajanE\Desktop\Practica Final\6 Ejercicios Colecciones\5-1 NumerosLocos\obj\Debug\net5.0\ref\5-1 NumerosLocos.dll

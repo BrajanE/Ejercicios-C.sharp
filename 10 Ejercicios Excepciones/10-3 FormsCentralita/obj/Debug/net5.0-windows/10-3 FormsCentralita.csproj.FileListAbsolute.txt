@@ -1,0 +1,23 @@
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\10-3 FormsCentralita\bin\Debug\net5.0-windows\10-3 FormsCentralita.exe
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\10-3 FormsCentralita\bin\Debug\net5.0-windows\10-3 FormsCentralita.deps.json
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\10-3 FormsCentralita\bin\Debug\net5.0-windows\10-3 FormsCentralita.runtimeconfig.json
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\10-3 FormsCentralita\bin\Debug\net5.0-windows\10-3 FormsCentralita.runtimeconfig.dev.json
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\10-3 FormsCentralita\bin\Debug\net5.0-windows\10-3 FormsCentralita.dll
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\10-3 FormsCentralita\bin\Debug\net5.0-windows\10-3 FormsCentralita.pdb
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\10-3 FormsCentralita\bin\Debug\net5.0-windows\10-3 Entidades.dll
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\10-3 FormsCentralita\bin\Debug\net5.0-windows\10-3 Entidades.pdb
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\10-3 FormsCentralita\obj\Debug\net5.0-windows\10-3 FormsCentralita.csproj.AssemblyReference.cache
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\10-3 FormsCentralita\obj\Debug\net5.0-windows\10-3 FormsCentralita.csproj.GenerateResource.cache
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\10-3 FormsCentralita\obj\Debug\net5.0-windows\10-3 FormsCentralita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\10-3 FormsCentralita\obj\Debug\net5.0-windows\10-3 FormsCentralita.AssemblyInfoInputs.cache
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\10-3 FormsCentralita\obj\Debug\net5.0-windows\10-3 FormsCentralita.AssemblyInfo.cs
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\10-3 FormsCentralita\obj\Debug\net5.0-windows\10-3 FormsCentralita.csproj.CoreCompileInputs.cache
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\10-3 FormsCentralita\obj\Debug\net5.0-windows\10-3 FormsCentralita.csproj.CopyComplete
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\10-3 FormsCentralita\obj\Debug\net5.0-windows\10-3 FormsCentralita.dll
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\10-3 FormsCentralita\obj\Debug\net5.0-windows\refint\10-3 FormsCentralita.dll
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\10-3 FormsCentralita\obj\Debug\net5.0-windows\10-3 FormsCentralita.pdb
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\10-3 FormsCentralita\obj\Debug\net5.0-windows\10-3 FormsCentralita.genruntimeconfig.cache
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\10-3 FormsCentralita\obj\Debug\net5.0-windows\ref\10-3 FormsCentralita.dll
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\10-3 FormsCentralita\obj\Debug\net5.0-windows\_10_3_FormsCentralita.FrmMenu.resources
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\10-3 FormsCentralita\obj\Debug\net5.0-windows\_10_3_FormsCentralita.FrmLLamador.resources
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\10-3 FormsCentralita\obj\Debug\net5.0-windows\_10_3_FormsCentralita.FrmMostrar.resources

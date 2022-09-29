@@ -1,0 +1,12 @@
+C:\Users\BrajanE\Desktop\C#\Practica Final\8 Ejercicios Herencia\8-2 Entidades\obj\Debug\net5.0\8-2 Entidades.csproj.AssemblyReference.cache
+C:\Users\BrajanE\Desktop\C#\Practica Final\8 Ejercicios Herencia\8-2 Entidades\obj\Debug\net5.0\8-2 Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrajanE\Desktop\C#\Practica Final\8 Ejercicios Herencia\8-2 Entidades\obj\Debug\net5.0\8-2 Entidades.AssemblyInfoInputs.cache
+C:\Users\BrajanE\Desktop\C#\Practica Final\8 Ejercicios Herencia\8-2 Entidades\obj\Debug\net5.0\8-2 Entidades.AssemblyInfo.cs
+C:\Users\BrajanE\Desktop\C#\Practica Final\8 Ejercicios Herencia\8-2 Entidades\obj\Debug\net5.0\8-2 Entidades.csproj.CoreCompileInputs.cache
+C:\Users\BrajanE\Desktop\C#\Practica Final\8 Ejercicios Herencia\8-2 Entidades\bin\Debug\net5.0\8-2 Entidades.deps.json
+C:\Users\BrajanE\Desktop\C#\Practica Final\8 Ejercicios Herencia\8-2 Entidades\bin\Debug\net5.0\8-2 Entidades.dll
+C:\Users\BrajanE\Desktop\C#\Practica Final\8 Ejercicios Herencia\8-2 Entidades\bin\Debug\net5.0\8-2 Entidades.pdb
+C:\Users\BrajanE\Desktop\C#\Practica Final\8 Ejercicios Herencia\8-2 Entidades\obj\Debug\net5.0\8-2 Entidades.dll
+C:\Users\BrajanE\Desktop\C#\Practica Final\8 Ejercicios Herencia\8-2 Entidades\obj\Debug\net5.0\refint\8-2 Entidades.dll
+C:\Users\BrajanE\Desktop\C#\Practica Final\8 Ejercicios Herencia\8-2 Entidades\obj\Debug\net5.0\8-2 Entidades.pdb
+C:\Users\BrajanE\Desktop\C#\Practica Final\8 Ejercicios Herencia\8-2 Entidades\obj\Debug\net5.0\ref\8-2 Entidades.dll

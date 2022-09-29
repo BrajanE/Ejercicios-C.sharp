@@ -1,0 +1,38 @@
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-2\obj\Debug\net5.0\4-2.csproj.AssemblyReference.cache
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-2\obj\Debug\net5.0\4-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-2\obj\Debug\net5.0\4-2.AssemblyInfoInputs.cache
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-2\obj\Debug\net5.0\4-2.AssemblyInfo.cs
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-2\obj\Debug\net5.0\4-2.csproj.CoreCompileInputs.cache
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-2\bin\Debug\net5.0\4-2.exe
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-2\bin\Debug\net5.0\4-2.deps.json
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-2\bin\Debug\net5.0\4-2.runtimeconfig.json
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-2\bin\Debug\net5.0\4-2.runtimeconfig.dev.json
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-2\bin\Debug\net5.0\4-2.dll
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-2\bin\Debug\net5.0\4-2.pdb
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-2\bin\Debug\net5.0\4-2 Cotizador.dll
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-2\bin\Debug\net5.0\4-2 Cotizador.pdb
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-2\obj\Debug\net5.0\4-2.csproj.CopyComplete
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-2\obj\Debug\net5.0\4-2.dll
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-2\obj\Debug\net5.0\refint\4-2.dll
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-2\obj\Debug\net5.0\4-2.pdb
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-2\obj\Debug\net5.0\4-2.genruntimeconfig.cache
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-2\obj\Debug\net5.0\ref\4-2.dll
+C:\Users\BrajanE\Desktop\C#\Practica Final\4 Ejercicios Sobrecarga\4-2\bin\Debug\net5.0\4-2.exe
+C:\Users\BrajanE\Desktop\C#\Practica Final\4 Ejercicios Sobrecarga\4-2\bin\Debug\net5.0\4-2.deps.json
+C:\Users\BrajanE\Desktop\C#\Practica Final\4 Ejercicios Sobrecarga\4-2\bin\Debug\net5.0\4-2.runtimeconfig.json
+C:\Users\BrajanE\Desktop\C#\Practica Final\4 Ejercicios Sobrecarga\4-2\bin\Debug\net5.0\4-2.runtimeconfig.dev.json
+C:\Users\BrajanE\Desktop\C#\Practica Final\4 Ejercicios Sobrecarga\4-2\bin\Debug\net5.0\4-2.dll
+C:\Users\BrajanE\Desktop\C#\Practica Final\4 Ejercicios Sobrecarga\4-2\bin\Debug\net5.0\4-2.pdb
+C:\Users\BrajanE\Desktop\C#\Practica Final\4 Ejercicios Sobrecarga\4-2\bin\Debug\net5.0\4-2 Cotizador.dll
+C:\Users\BrajanE\Desktop\C#\Practica Final\4 Ejercicios Sobrecarga\4-2\bin\Debug\net5.0\4-2 Cotizador.pdb
+C:\Users\BrajanE\Desktop\C#\Practica Final\4 Ejercicios Sobrecarga\4-2\obj\Debug\net5.0\4-2.csproj.AssemblyReference.cache
+C:\Users\BrajanE\Desktop\C#\Practica Final\4 Ejercicios Sobrecarga\4-2\obj\Debug\net5.0\4-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrajanE\Desktop\C#\Practica Final\4 Ejercicios Sobrecarga\4-2\obj\Debug\net5.0\4-2.AssemblyInfoInputs.cache
+C:\Users\BrajanE\Desktop\C#\Practica Final\4 Ejercicios Sobrecarga\4-2\obj\Debug\net5.0\4-2.AssemblyInfo.cs
+C:\Users\BrajanE\Desktop\C#\Practica Final\4 Ejercicios Sobrecarga\4-2\obj\Debug\net5.0\4-2.csproj.CoreCompileInputs.cache
+C:\Users\BrajanE\Desktop\C#\Practica Final\4 Ejercicios Sobrecarga\4-2\obj\Debug\net5.0\4-2.csproj.CopyComplete
+C:\Users\BrajanE\Desktop\C#\Practica Final\4 Ejercicios Sobrecarga\4-2\obj\Debug\net5.0\4-2.dll
+C:\Users\BrajanE\Desktop\C#\Practica Final\4 Ejercicios Sobrecarga\4-2\obj\Debug\net5.0\refint\4-2.dll
+C:\Users\BrajanE\Desktop\C#\Practica Final\4 Ejercicios Sobrecarga\4-2\obj\Debug\net5.0\4-2.pdb
+C:\Users\BrajanE\Desktop\C#\Practica Final\4 Ejercicios Sobrecarga\4-2\obj\Debug\net5.0\4-2.genruntimeconfig.cache
+C:\Users\BrajanE\Desktop\C#\Practica Final\4 Ejercicios Sobrecarga\4-2\obj\Debug\net5.0\ref\4-2.dll

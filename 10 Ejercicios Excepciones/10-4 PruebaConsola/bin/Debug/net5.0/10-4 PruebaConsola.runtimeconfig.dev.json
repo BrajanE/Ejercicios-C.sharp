@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\estra\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\estra\\.nuget\\packages"
+    ]
+  }
+}

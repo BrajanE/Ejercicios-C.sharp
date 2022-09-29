@@ -1,0 +1,19 @@
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-4\bin\Debug\net5.0\4-4.exe
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-4\bin\Debug\net5.0\4-4.deps.json
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-4\bin\Debug\net5.0\4-4.runtimeconfig.json
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-4\bin\Debug\net5.0\4-4.runtimeconfig.dev.json
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-4\bin\Debug\net5.0\4-4.dll
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-4\bin\Debug\net5.0\4-4.pdb
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-4\bin\Debug\net5.0\4-4  Estanteria.dll
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-4\bin\Debug\net5.0\4-4  Estanteria.pdb
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-4\obj\Debug\net5.0\4-4.csproj.AssemblyReference.cache
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-4\obj\Debug\net5.0\4-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-4\obj\Debug\net5.0\4-4.AssemblyInfoInputs.cache
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-4\obj\Debug\net5.0\4-4.AssemblyInfo.cs
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-4\obj\Debug\net5.0\4-4.csproj.CoreCompileInputs.cache
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-4\obj\Debug\net5.0\4-4.csproj.CopyComplete
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-4\obj\Debug\net5.0\4-4.dll
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-4\obj\Debug\net5.0\refint\4-4.dll
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-4\obj\Debug\net5.0\4-4.pdb
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-4\obj\Debug\net5.0\4-4.genruntimeconfig.cache
+C:\Users\BrajanE\Desktop\Practica Final\4 Ejercicios Sobrecarga\4-4\obj\Debug\net5.0\ref\4-4.dll

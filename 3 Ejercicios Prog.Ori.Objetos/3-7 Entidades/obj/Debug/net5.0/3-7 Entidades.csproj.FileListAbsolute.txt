@@ -1,0 +1,12 @@
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-7 Entidades\bin\Debug\net5.0\3-7 Entidades.deps.json
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-7 Entidades\bin\Debug\net5.0\3-7 Entidades.dll
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-7 Entidades\bin\Debug\net5.0\3-7 Entidades.pdb
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-7 Entidades\obj\Debug\net5.0\3-7 Entidades.csproj.AssemblyReference.cache
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-7 Entidades\obj\Debug\net5.0\3-7 Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-7 Entidades\obj\Debug\net5.0\3-7 Entidades.AssemblyInfoInputs.cache
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-7 Entidades\obj\Debug\net5.0\3-7 Entidades.AssemblyInfo.cs
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-7 Entidades\obj\Debug\net5.0\3-7 Entidades.csproj.CoreCompileInputs.cache
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-7 Entidades\obj\Debug\net5.0\3-7 Entidades.dll
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-7 Entidades\obj\Debug\net5.0\refint\3-7 Entidades.dll
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-7 Entidades\obj\Debug\net5.0\3-7 Entidades.pdb
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-7 Entidades\obj\Debug\net5.0\ref\3-7 Entidades.dll

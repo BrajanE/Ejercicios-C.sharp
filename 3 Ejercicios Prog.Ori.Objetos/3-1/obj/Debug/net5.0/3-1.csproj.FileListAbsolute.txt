@@ -1,0 +1,19 @@
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-1\bin\Debug\net5.0\3-1.exe
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-1\bin\Debug\net5.0\3-1.deps.json
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-1\bin\Debug\net5.0\3-1.runtimeconfig.json
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-1\bin\Debug\net5.0\3-1.runtimeconfig.dev.json
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-1\bin\Debug\net5.0\3-1.dll
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-1\bin\Debug\net5.0\3-1.pdb
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-1\obj\Debug\net5.0\3-1.csproj.AssemblyReference.cache
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-1\obj\Debug\net5.0\3-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-1\obj\Debug\net5.0\3-1.AssemblyInfoInputs.cache
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-1\obj\Debug\net5.0\3-1.AssemblyInfo.cs
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-1\obj\Debug\net5.0\3-1.csproj.CoreCompileInputs.cache
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-1\obj\Debug\net5.0\3-1.csproj.CopyComplete
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-1\obj\Debug\net5.0\3-1.dll
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-1\obj\Debug\net5.0\refint\3-1.dll
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-1\obj\Debug\net5.0\3-1.pdb
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-1\obj\Debug\net5.0\3-1.genruntimeconfig.cache
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-1\obj\Debug\net5.0\ref\3-1.dll
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-1\bin\Debug\net5.0\3-1 Entidades.dll
+C:\Users\BrajanE\Desktop\Practica Final\3 Ejercicios Prog.Ori.Objetos\3-1\bin\Debug\net5.0\3-1 Entidades.pdb

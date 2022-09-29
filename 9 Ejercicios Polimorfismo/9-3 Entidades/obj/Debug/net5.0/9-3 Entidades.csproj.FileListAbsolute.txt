@@ -1,0 +1,12 @@
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 Entidades\bin\Debug\net5.0\9-3 Entidades.deps.json
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 Entidades\bin\Debug\net5.0\9-3 Entidades.dll
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 Entidades\bin\Debug\net5.0\9-3 Entidades.pdb
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 Entidades\obj\Debug\net5.0\9-3 Entidades.csproj.AssemblyReference.cache
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 Entidades\obj\Debug\net5.0\9-3 Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 Entidades\obj\Debug\net5.0\9-3 Entidades.AssemblyInfoInputs.cache
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 Entidades\obj\Debug\net5.0\9-3 Entidades.AssemblyInfo.cs
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 Entidades\obj\Debug\net5.0\9-3 Entidades.csproj.CoreCompileInputs.cache
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 Entidades\obj\Debug\net5.0\9-3 Entidades.dll
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 Entidades\obj\Debug\net5.0\refint\9-3 Entidades.dll
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 Entidades\obj\Debug\net5.0\9-3 Entidades.pdb
+C:\Users\BrajanE\Desktop\C#\Practica Final\9 Ejercicios Polimorfismo\9-3 Entidades\obj\Debug\net5.0\ref\9-3 Entidades.dll

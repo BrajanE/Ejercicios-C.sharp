@@ -1,0 +1,16 @@
+C:\Users\BrajanE\Desktop\Practica Final\6 Ejercicios Colecciones\5-1\bin\Debug\net5.0\5-1 ArrayCcoleccion.exe
+C:\Users\BrajanE\Desktop\Practica Final\6 Ejercicios Colecciones\5-1\bin\Debug\net5.0\5-1 ArrayCcoleccion.deps.json
+C:\Users\BrajanE\Desktop\Practica Final\6 Ejercicios Colecciones\5-1\bin\Debug\net5.0\5-1 ArrayCcoleccion.runtimeconfig.json
+C:\Users\BrajanE\Desktop\Practica Final\6 Ejercicios Colecciones\5-1\bin\Debug\net5.0\5-1 ArrayCcoleccion.runtimeconfig.dev.json
+C:\Users\BrajanE\Desktop\Practica Final\6 Ejercicios Colecciones\5-1\bin\Debug\net5.0\5-1 ArrayCcoleccion.dll
+C:\Users\BrajanE\Desktop\Practica Final\6 Ejercicios Colecciones\5-1\bin\Debug\net5.0\5-1 ArrayCcoleccion.pdb
+C:\Users\BrajanE\Desktop\Practica Final\6 Ejercicios Colecciones\5-1\obj\Debug\net5.0\5-1 ArrayCcoleccion.csproj.AssemblyReference.cache
+C:\Users\BrajanE\Desktop\Practica Final\6 Ejercicios Colecciones\5-1\obj\Debug\net5.0\5-1 ArrayCcoleccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrajanE\Desktop\Practica Final\6 Ejercicios Colecciones\5-1\obj\Debug\net5.0\5-1 ArrayCcoleccion.AssemblyInfoInputs.cache
+C:\Users\BrajanE\Desktop\Practica Final\6 Ejercicios Colecciones\5-1\obj\Debug\net5.0\5-1 ArrayCcoleccion.AssemblyInfo.cs
+C:\Users\BrajanE\Desktop\Practica Final\6 Ejercicios Colecciones\5-1\obj\Debug\net5.0\5-1 ArrayCcoleccion.csproj.CoreCompileInputs.cache
+C:\Users\BrajanE\Desktop\Practica Final\6 Ejercicios Colecciones\5-1\obj\Debug\net5.0\5-1 ArrayCcoleccion.dll
+C:\Users\BrajanE\Desktop\Practica Final\6 Ejercicios Colecciones\5-1\obj\Debug\net5.0\refint\5-1 ArrayCcoleccion.dll
+C:\Users\BrajanE\Desktop\Practica Final\6 Ejercicios Colecciones\5-1\obj\Debug\net5.0\5-1 ArrayCcoleccion.pdb
+C:\Users\BrajanE\Desktop\Practica Final\6 Ejercicios Colecciones\5-1\obj\Debug\net5.0\5-1 ArrayCcoleccion.genruntimeconfig.cache
+C:\Users\BrajanE\Desktop\Practica Final\6 Ejercicios Colecciones\5-1\obj\Debug\net5.0\ref\5-1 ArrayCcoleccion.dll

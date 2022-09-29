@@ -1,0 +1,12 @@
+C:\Users\BrajanE\Desktop\C#\Practica Final\10 Ejercicios Excepciones\10 -1 Entidades\bin\Debug\net5.0\10 -1 MiClase.deps.json
+C:\Users\BrajanE\Desktop\C#\Practica Final\10 Ejercicios Excepciones\10 -1 Entidades\bin\Debug\net5.0\10 -1 MiClase.dll
+C:\Users\BrajanE\Desktop\C#\Practica Final\10 Ejercicios Excepciones\10 -1 Entidades\bin\Debug\net5.0\10 -1 MiClase.pdb
+C:\Users\BrajanE\Desktop\C#\Practica Final\10 Ejercicios Excepciones\10 -1 Entidades\obj\Debug\net5.0\10 -1 MiClase.csproj.AssemblyReference.cache
+C:\Users\BrajanE\Desktop\C#\Practica Final\10 Ejercicios Excepciones\10 -1 Entidades\obj\Debug\net5.0\10 -1 MiClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrajanE\Desktop\C#\Practica Final\10 Ejercicios Excepciones\10 -1 Entidades\obj\Debug\net5.0\10 -1 MiClase.AssemblyInfoInputs.cache
+C:\Users\BrajanE\Desktop\C#\Practica Final\10 Ejercicios Excepciones\10 -1 Entidades\obj\Debug\net5.0\10 -1 MiClase.AssemblyInfo.cs
+C:\Users\BrajanE\Desktop\C#\Practica Final\10 Ejercicios Excepciones\10 -1 Entidades\obj\Debug\net5.0\10 -1 MiClase.csproj.CoreCompileInputs.cache
+C:\Users\BrajanE\Desktop\C#\Practica Final\10 Ejercicios Excepciones\10 -1 Entidades\obj\Debug\net5.0\10 -1 MiClase.dll
+C:\Users\BrajanE\Desktop\C#\Practica Final\10 Ejercicios Excepciones\10 -1 Entidades\obj\Debug\net5.0\refint\10 -1 MiClase.dll
+C:\Users\BrajanE\Desktop\C#\Practica Final\10 Ejercicios Excepciones\10 -1 Entidades\obj\Debug\net5.0\10 -1 MiClase.pdb
+C:\Users\BrajanE\Desktop\C#\Practica Final\10 Ejercicios Excepciones\10 -1 Entidades\obj\Debug\net5.0\ref\10 -1 MiClase.dll

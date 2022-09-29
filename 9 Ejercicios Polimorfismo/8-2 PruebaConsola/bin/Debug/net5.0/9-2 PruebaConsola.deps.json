@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "9-2 PruebaConsola/1.0.0": {
+        "runtime": {
+          "9-2 PruebaConsola.dll": {}
+        }
+      },
+      "9-2 Entidades/1.0.0": {
+        "runtime": {
+          "9-2 Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "9-2 PruebaConsola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "9-2 Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
