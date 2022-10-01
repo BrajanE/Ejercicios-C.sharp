@@ -13,7 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10-2 Atrapame si puedes", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10-2 Entidades", "10-2 Entidades\10-2 Entidades.csproj", "{C9604ED6-0541-4189-BF1E-930829E50EA8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebaForms", "PruebaForms\PruebaForms.csproj", "{3A725CEC-D7D5-4525-A796-7E3D73C93029}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10-2 PruebaForms", "PruebaForms\10-2 PruebaForms.csproj", "{3A725CEC-D7D5-4525-A796-7E3D73C93029}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10-3 Centralita", "10-3 Centralita", "{C024DBB5-9321-4470-A12E-52FDF892DC3D}"
 EndProject
@@ -25,9 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10-3 FormsCentralita", "10-
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10-4 Go speed Go", "10-4 Go speed Go", "{8B10B5AD-63A1-448D-B491-ECA8EB3135CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-4 Entidades", "10-4 Entidades\10-4 Entidades.csproj", "{1FD5BB66-1A6C-40E8-9BEA-1667F406C6B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10-4 Entidades", "10-4 Entidades\10-4 Entidades.csproj", "{1FD5BB66-1A6C-40E8-9BEA-1667F406C6B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-4 PruebaConsola", "10-4 PruebaConsola\10-4 PruebaConsola.csproj", "{86BC63E4-1E39-4FEB-B9D2-12D723244FF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10-4 PruebaConsola", "10-4 PruebaConsola\10-4 PruebaConsola.csproj", "{86BC63E4-1E39-4FEB-B9D2-12D723244FF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

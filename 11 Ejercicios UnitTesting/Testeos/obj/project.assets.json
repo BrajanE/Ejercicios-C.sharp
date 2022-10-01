@@ -6357,9 +6357,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\estra\\Documents\\C#\\Ejercitacion\\11 Ejercicios UnitTesting\\Testeos\\Testeos.csproj",
-      "projectName": "Testeos",
-      "projectPath": "C:\\Users\\estra\\Documents\\C#\\Ejercitacion\\11 Ejercicios UnitTesting\\Testeos\\Testeos.csproj",
+      "projectUniqueName": "C:\\Users\\estra\\Documents\\C#\\Ejercitacion\\11 Ejercicios UnitTesting\\Testeos\\11-1 Testeos.csproj",
+      "projectName": "11-1 Testeos",
+      "projectPath": "C:\\Users\\estra\\Documents\\C#\\Ejercitacion\\11 Ejercicios UnitTesting\\Testeos\\11-1 Testeos.csproj",
       "packagesPath": "C:\\Users\\estra\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\estra\\Documents\\C#\\Ejercitacion\\11 Ejercicios UnitTesting\\Testeos\\obj\\",
       "projectStyle": "PackageReference",

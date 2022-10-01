@@ -19,3 +19,24 @@ C:\Users\BrajanE\Desktop\C#\Practica Final\10 Ejercicios Excepciones\PruebaForms
 C:\Users\BrajanE\Desktop\C#\Practica Final\10 Ejercicios Excepciones\PruebaForms\bin\Debug\net5.0-windows\10-2 Entidades.dll
 C:\Users\BrajanE\Desktop\C#\Practica Final\10 Ejercicios Excepciones\PruebaForms\bin\Debug\net5.0-windows\10-2 Entidades.pdb
 C:\Users\BrajanE\Desktop\C#\Practica Final\10 Ejercicios Excepciones\PruebaForms\obj\Debug\net5.0-windows\PruebaForms.csproj.CopyComplete
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\PruebaForms\bin\Debug\net5.0-windows\PruebaForms.exe
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\PruebaForms\bin\Debug\net5.0-windows\PruebaForms.deps.json
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\PruebaForms\bin\Debug\net5.0-windows\PruebaForms.runtimeconfig.json
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\PruebaForms\bin\Debug\net5.0-windows\PruebaForms.runtimeconfig.dev.json
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\PruebaForms\bin\Debug\net5.0-windows\PruebaForms.dll
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\PruebaForms\bin\Debug\net5.0-windows\PruebaForms.pdb
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\PruebaForms\bin\Debug\net5.0-windows\10-2 Entidades.dll
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\PruebaForms\bin\Debug\net5.0-windows\10-2 Entidades.pdb
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\PruebaForms\obj\Debug\net5.0-windows\PruebaForms.csproj.AssemblyReference.cache
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\PruebaForms\obj\Debug\net5.0-windows\PruebaForms.FrmCalculador.resources
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\PruebaForms\obj\Debug\net5.0-windows\PruebaForms.csproj.GenerateResource.cache
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\PruebaForms\obj\Debug\net5.0-windows\PruebaForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\PruebaForms\obj\Debug\net5.0-windows\PruebaForms.AssemblyInfoInputs.cache
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\PruebaForms\obj\Debug\net5.0-windows\PruebaForms.AssemblyInfo.cs
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\PruebaForms\obj\Debug\net5.0-windows\PruebaForms.csproj.CoreCompileInputs.cache
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\PruebaForms\obj\Debug\net5.0-windows\PruebaForms.csproj.CopyComplete
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\PruebaForms\obj\Debug\net5.0-windows\PruebaForms.dll
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\PruebaForms\obj\Debug\net5.0-windows\refint\PruebaForms.dll
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\PruebaForms\obj\Debug\net5.0-windows\PruebaForms.pdb
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\PruebaForms\obj\Debug\net5.0-windows\PruebaForms.genruntimeconfig.cache
+C:\Users\estra\Documents\C#\Ejercitacion\10 Ejercicios Excepciones\PruebaForms\obj\Debug\net5.0-windows\ref\PruebaForms.dll

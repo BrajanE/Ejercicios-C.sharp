@@ -32,9 +32,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\estra\\Documents\\C#\\Ejercitacion\\10 Ejercicios Excepciones\\PruebaForms\\PruebaForms.csproj",
-      "projectName": "PruebaForms",
-      "projectPath": "C:\\Users\\estra\\Documents\\C#\\Ejercitacion\\10 Ejercicios Excepciones\\PruebaForms\\PruebaForms.csproj",
+      "projectUniqueName": "C:\\Users\\estra\\Documents\\C#\\Ejercitacion\\10 Ejercicios Excepciones\\PruebaForms\\10-2 PruebaForms.csproj",
+      "projectName": "10-2 PruebaForms",
+      "projectPath": "C:\\Users\\estra\\Documents\\C#\\Ejercitacion\\10 Ejercicios Excepciones\\PruebaForms\\10-2 PruebaForms.csproj",
       "packagesPath": "C:\\Users\\estra\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\estra\\Documents\\C#\\Ejercitacion\\10 Ejercicios Excepciones\\PruebaForms\\obj\\",
       "projectStyle": "PackageReference",

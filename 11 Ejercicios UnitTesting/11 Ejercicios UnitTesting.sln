@@ -5,9 +5,9 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11-1 TestDriven Dev", "11-1 TestDriven Dev", "{B3509810-B08A-4E01-A705-92F313A4FFBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-1 Entidades", "11-1 Entidades\11-1 Entidades.csproj", "{7B2519B9-4EAB-484A-9F27-8BCFA6EFBB2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11-1 Entidades", "11-1 Entidades\11-1 Entidades.csproj", "{7B2519B9-4EAB-484A-9F27-8BCFA6EFBB2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testeos", "Testeos\Testeos.csproj", "{D9BDFE69-7027-4924-908D-E0EF0246B8D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11-1 Testeos", "Testeos\11-1 Testeos.csproj", "{D9BDFE69-7027-4924-908D-E0EF0246B8D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
