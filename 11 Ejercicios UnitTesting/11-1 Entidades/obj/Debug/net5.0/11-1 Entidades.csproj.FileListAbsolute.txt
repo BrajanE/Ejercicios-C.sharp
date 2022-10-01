@@ -1,0 +1,12 @@
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-1 Entidades\bin\Debug\net5.0\11-1 Entidades.deps.json
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-1 Entidades\bin\Debug\net5.0\11-1 Entidades.dll
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-1 Entidades\bin\Debug\net5.0\11-1 Entidades.pdb
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-1 Entidades\obj\Debug\net5.0\11-1 Entidades.csproj.AssemblyReference.cache
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-1 Entidades\obj\Debug\net5.0\11-1 Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-1 Entidades\obj\Debug\net5.0\11-1 Entidades.AssemblyInfoInputs.cache
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-1 Entidades\obj\Debug\net5.0\11-1 Entidades.AssemblyInfo.cs
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-1 Entidades\obj\Debug\net5.0\11-1 Entidades.csproj.CoreCompileInputs.cache
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-1 Entidades\obj\Debug\net5.0\11-1 Entidades.dll
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-1 Entidades\obj\Debug\net5.0\refint\11-1 Entidades.dll
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-1 Entidades\obj\Debug\net5.0\11-1 Entidades.pdb
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-1 Entidades\obj\Debug\net5.0\ref\11-1 Entidades.dll
