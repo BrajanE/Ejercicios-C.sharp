@@ -63,7 +63,7 @@ namespace _10_3_FormsCentralita
 
         private void btn_salir_Click(object sender, EventArgs e)
         {
-
+            this.Close();
         }
     }
 }

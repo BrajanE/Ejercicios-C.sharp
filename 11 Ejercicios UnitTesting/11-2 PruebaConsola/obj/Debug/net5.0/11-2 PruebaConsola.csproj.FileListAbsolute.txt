@@ -1,0 +1,5 @@
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-2 PruebaConsola\obj\Debug\net5.0\11-2 PruebaConsola.csproj.AssemblyReference.cache
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-2 PruebaConsola\obj\Debug\net5.0\11-2 PruebaConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-2 PruebaConsola\obj\Debug\net5.0\11-2 PruebaConsola.AssemblyInfoInputs.cache
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-2 PruebaConsola\obj\Debug\net5.0\11-2 PruebaConsola.AssemblyInfo.cs
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-2 PruebaConsola\obj\Debug\net5.0\11-2 PruebaConsola.csproj.CoreCompileInputs.cache

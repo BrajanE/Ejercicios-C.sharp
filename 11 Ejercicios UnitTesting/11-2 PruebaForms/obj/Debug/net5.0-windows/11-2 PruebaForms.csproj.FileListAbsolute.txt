@@ -1,0 +1,23 @@
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-2 PruebaForms\bin\Debug\net5.0-windows\11-2 PruebaForms.exe
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-2 PruebaForms\bin\Debug\net5.0-windows\11-2 PruebaForms.deps.json
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-2 PruebaForms\bin\Debug\net5.0-windows\11-2 PruebaForms.runtimeconfig.json
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-2 PruebaForms\bin\Debug\net5.0-windows\11-2 PruebaForms.runtimeconfig.dev.json
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-2 PruebaForms\bin\Debug\net5.0-windows\11-2 PruebaForms.dll
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-2 PruebaForms\bin\Debug\net5.0-windows\11-2 PruebaForms.pdb
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-2 PruebaForms\bin\Debug\net5.0-windows\11-2 Entidades.dll
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-2 PruebaForms\bin\Debug\net5.0-windows\11-2 Entidades.pdb
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-2 PruebaForms\obj\Debug\net5.0-windows\11-2 PruebaForms.csproj.AssemblyReference.cache
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-2 PruebaForms\obj\Debug\net5.0-windows\_11_2_PruebaForms.FrmLLamador.resources
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-2 PruebaForms\obj\Debug\net5.0-windows\_11_2_PruebaForms.FrmMenu.resources
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-2 PruebaForms\obj\Debug\net5.0-windows\_11_2_PruebaForms.FrmMostrar.resources
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-2 PruebaForms\obj\Debug\net5.0-windows\11-2 PruebaForms.csproj.GenerateResource.cache
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-2 PruebaForms\obj\Debug\net5.0-windows\11-2 PruebaForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-2 PruebaForms\obj\Debug\net5.0-windows\11-2 PruebaForms.AssemblyInfoInputs.cache
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-2 PruebaForms\obj\Debug\net5.0-windows\11-2 PruebaForms.AssemblyInfo.cs
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-2 PruebaForms\obj\Debug\net5.0-windows\11-2 PruebaForms.csproj.CoreCompileInputs.cache
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-2 PruebaForms\obj\Debug\net5.0-windows\11-2 PruebaForms.csproj.CopyComplete
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-2 PruebaForms\obj\Debug\net5.0-windows\11-2 PruebaForms.dll
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-2 PruebaForms\obj\Debug\net5.0-windows\refint\11-2 PruebaForms.dll
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-2 PruebaForms\obj\Debug\net5.0-windows\11-2 PruebaForms.pdb
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-2 PruebaForms\obj\Debug\net5.0-windows\11-2 PruebaForms.genruntimeconfig.cache
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-2 PruebaForms\obj\Debug\net5.0-windows\ref\11-2 PruebaForms.dll
