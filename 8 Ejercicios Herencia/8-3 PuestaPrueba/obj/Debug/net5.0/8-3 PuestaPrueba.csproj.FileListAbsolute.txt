@@ -17,3 +17,22 @@ C:\Users\BrajanE\Desktop\C#\Practica Final\8 Ejercicios Herencia\8-3 PuestaPrueb
 C:\Users\BrajanE\Desktop\C#\Practica Final\8 Ejercicios Herencia\8-3 PuestaPrueba\obj\Debug\net5.0\8-3 PuestaPrueba.pdb
 C:\Users\BrajanE\Desktop\C#\Practica Final\8 Ejercicios Herencia\8-3 PuestaPrueba\obj\Debug\net5.0\8-3 PuestaPrueba.genruntimeconfig.cache
 C:\Users\BrajanE\Desktop\C#\Practica Final\8 Ejercicios Herencia\8-3 PuestaPrueba\obj\Debug\net5.0\ref\8-3 PuestaPrueba.dll
+C:\Users\estra\Documents\C#\Ejercitacion\8 Ejercicios Herencia\8-3 PuestaPrueba\bin\Debug\net5.0\8-3 PuestaPrueba.exe
+C:\Users\estra\Documents\C#\Ejercitacion\8 Ejercicios Herencia\8-3 PuestaPrueba\bin\Debug\net5.0\8-3 PuestaPrueba.deps.json
+C:\Users\estra\Documents\C#\Ejercitacion\8 Ejercicios Herencia\8-3 PuestaPrueba\bin\Debug\net5.0\8-3 PuestaPrueba.runtimeconfig.json
+C:\Users\estra\Documents\C#\Ejercitacion\8 Ejercicios Herencia\8-3 PuestaPrueba\bin\Debug\net5.0\8-3 PuestaPrueba.runtimeconfig.dev.json
+C:\Users\estra\Documents\C#\Ejercitacion\8 Ejercicios Herencia\8-3 PuestaPrueba\bin\Debug\net5.0\8-3 PuestaPrueba.dll
+C:\Users\estra\Documents\C#\Ejercitacion\8 Ejercicios Herencia\8-3 PuestaPrueba\bin\Debug\net5.0\8-3 PuestaPrueba.pdb
+C:\Users\estra\Documents\C#\Ejercitacion\8 Ejercicios Herencia\8-3 PuestaPrueba\bin\Debug\net5.0\8-3 Entidades.dll
+C:\Users\estra\Documents\C#\Ejercitacion\8 Ejercicios Herencia\8-3 PuestaPrueba\bin\Debug\net5.0\8-3 Entidades.pdb
+C:\Users\estra\Documents\C#\Ejercitacion\8 Ejercicios Herencia\8-3 PuestaPrueba\obj\Debug\net5.0\8-3 PuestaPrueba.csproj.AssemblyReference.cache
+C:\Users\estra\Documents\C#\Ejercitacion\8 Ejercicios Herencia\8-3 PuestaPrueba\obj\Debug\net5.0\8-3 PuestaPrueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estra\Documents\C#\Ejercitacion\8 Ejercicios Herencia\8-3 PuestaPrueba\obj\Debug\net5.0\8-3 PuestaPrueba.AssemblyInfoInputs.cache
+C:\Users\estra\Documents\C#\Ejercitacion\8 Ejercicios Herencia\8-3 PuestaPrueba\obj\Debug\net5.0\8-3 PuestaPrueba.AssemblyInfo.cs
+C:\Users\estra\Documents\C#\Ejercitacion\8 Ejercicios Herencia\8-3 PuestaPrueba\obj\Debug\net5.0\8-3 PuestaPrueba.csproj.CoreCompileInputs.cache
+C:\Users\estra\Documents\C#\Ejercitacion\8 Ejercicios Herencia\8-3 PuestaPrueba\obj\Debug\net5.0\8-3 PuestaPrueba.csproj.CopyComplete
+C:\Users\estra\Documents\C#\Ejercitacion\8 Ejercicios Herencia\8-3 PuestaPrueba\obj\Debug\net5.0\8-3 PuestaPrueba.dll
+C:\Users\estra\Documents\C#\Ejercitacion\8 Ejercicios Herencia\8-3 PuestaPrueba\obj\Debug\net5.0\refint\8-3 PuestaPrueba.dll
+C:\Users\estra\Documents\C#\Ejercitacion\8 Ejercicios Herencia\8-3 PuestaPrueba\obj\Debug\net5.0\8-3 PuestaPrueba.pdb
+C:\Users\estra\Documents\C#\Ejercitacion\8 Ejercicios Herencia\8-3 PuestaPrueba\obj\Debug\net5.0\8-3 PuestaPrueba.genruntimeconfig.cache
+C:\Users\estra\Documents\C#\Ejercitacion\8 Ejercicios Herencia\8-3 PuestaPrueba\obj\Debug\net5.0\ref\8-3 PuestaPrueba.dll
