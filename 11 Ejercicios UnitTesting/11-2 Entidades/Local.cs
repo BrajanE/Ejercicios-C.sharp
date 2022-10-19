@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _11_2_Entidades
 {
-    public class Local : LLamada
+    public class Local : LLamada, IGuardar<Local>
     {
         protected float costo;
 
@@ -26,6 +26,7 @@ namespace _11_2_Entidades
         {
             get { return CalcularCosto(); }
         }
+
         protected override string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
@@ -41,6 +42,18 @@ namespace _11_2_Entidades
         public override string ToString()
         {
             return Mostrar();
+        }
+
+        //INTERFACE
+        public string RutaDeArchivo { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public bool Guardar()
+        {
+            throw new NotImplementedException();
+        }
+
+        public Local Leer()
+        {
+            throw new NotImplementedException();
         }
     }
 }

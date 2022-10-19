@@ -12,7 +12,7 @@ namespace _11_2_Entidades
         Franja_2,
         Franja_3
     }
-    public class Provincial : LLamada
+    public class Provincial : LLamada, IGuardar<Provincial>
     {
 
         protected EFranja franjaHoraria;
@@ -29,6 +29,7 @@ namespace _11_2_Entidades
         {
             get { return CalcularCosto(); }
         }
+
         private float CalcularCosto()
         {
             float costo = 0;
@@ -61,6 +62,19 @@ namespace _11_2_Entidades
         public override string ToString()
         {
             return Mostrar();
+        }
+
+        //INTERFACE
+        public string RutaDeArchivo { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+
+        public bool Guardar()
+        {
+            throw new NotImplementedException();
+        }
+
+        public Provincial Leer()
+        {
+            throw new NotImplementedException();
         }
     }
 }

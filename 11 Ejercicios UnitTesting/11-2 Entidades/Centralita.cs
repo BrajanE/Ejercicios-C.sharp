@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _11_2_Entidades
 {
-    public class Centralita
+    public class Centralita : IGuardar <string>
     {
         private List<LLamada> listaDeLLamada;
         protected string razonSocial;
@@ -26,7 +26,6 @@ namespace _11_2_Entidades
         public float GananciaPorTotal { get { return CalcularCosto(LLamada.ETipoLLamada.Todas); } }
         public List<LLamada> LLamadas { get { return listaDeLLamada; } }
         public string RazonSocial { get { return razonSocial; } }
-
 
         private float CalcularCosto(LLamada.ETipoLLamada tipo)
         {
@@ -115,6 +114,22 @@ namespace _11_2_Entidades
         public override string ToString()
         {
             return Mostrar();
+        }
+
+        // INTERFACE
+        public string RutaDeArchivo { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public bool Guardar()
+        {
+            if (this.LLamadas is not null && !String.IsNullOrEmpty(this.RazonSocial))
+            {
+                return true;
+            }
+            return false;
+        }
+
+        public string Leer()
+        {
+            throw new NotImplementedException();
         }
     }
 }
