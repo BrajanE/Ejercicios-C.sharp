@@ -1,0 +1,16 @@
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-4 IO-Consola\bin\Debug\net5.0\14-4 IO-Consola.exe
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-4 IO-Consola\bin\Debug\net5.0\14-4 IO-Consola.deps.json
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-4 IO-Consola\bin\Debug\net5.0\14-4 IO-Consola.runtimeconfig.json
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-4 IO-Consola\bin\Debug\net5.0\14-4 IO-Consola.runtimeconfig.dev.json
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-4 IO-Consola\bin\Debug\net5.0\14-4 IO-Consola.dll
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-4 IO-Consola\bin\Debug\net5.0\14-4 IO-Consola.pdb
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-4 IO-Consola\obj\Debug\net5.0\14-4 IO-Consola.csproj.AssemblyReference.cache
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-4 IO-Consola\obj\Debug\net5.0\14-4 IO-Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-4 IO-Consola\obj\Debug\net5.0\14-4 IO-Consola.AssemblyInfoInputs.cache
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-4 IO-Consola\obj\Debug\net5.0\14-4 IO-Consola.AssemblyInfo.cs
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-4 IO-Consola\obj\Debug\net5.0\14-4 IO-Consola.csproj.CoreCompileInputs.cache
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-4 IO-Consola\obj\Debug\net5.0\14-4 IO-Consola.dll
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-4 IO-Consola\obj\Debug\net5.0\refint\14-4 IO-Consola.dll
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-4 IO-Consola\obj\Debug\net5.0\14-4 IO-Consola.pdb
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-4 IO-Consola\obj\Debug\net5.0\14-4 IO-Consola.genruntimeconfig.cache
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-4 IO-Consola\obj\Debug\net5.0\ref\14-4 IO-Consola.dll

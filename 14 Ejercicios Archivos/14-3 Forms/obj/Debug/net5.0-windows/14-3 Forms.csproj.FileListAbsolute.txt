@@ -1,0 +1,18 @@
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-3 Forms\bin\Debug\net5.0-windows\14-3 Forms.exe
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-3 Forms\bin\Debug\net5.0-windows\14-3 Forms.deps.json
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-3 Forms\bin\Debug\net5.0-windows\14-3 Forms.runtimeconfig.json
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-3 Forms\bin\Debug\net5.0-windows\14-3 Forms.runtimeconfig.dev.json
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-3 Forms\bin\Debug\net5.0-windows\14-3 Forms.dll
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-3 Forms\bin\Debug\net5.0-windows\14-3 Forms.pdb
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-3 Forms\obj\Debug\net5.0-windows\14-3 Forms.csproj.AssemblyReference.cache
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-3 Forms\obj\Debug\net5.0-windows\_14_3_Forms.Notepad.resources
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-3 Forms\obj\Debug\net5.0-windows\14-3 Forms.csproj.GenerateResource.cache
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-3 Forms\obj\Debug\net5.0-windows\14-3 Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-3 Forms\obj\Debug\net5.0-windows\14-3 Forms.AssemblyInfoInputs.cache
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-3 Forms\obj\Debug\net5.0-windows\14-3 Forms.AssemblyInfo.cs
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-3 Forms\obj\Debug\net5.0-windows\14-3 Forms.csproj.CoreCompileInputs.cache
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-3 Forms\obj\Debug\net5.0-windows\14-3 Forms.dll
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-3 Forms\obj\Debug\net5.0-windows\refint\14-3 Forms.dll
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-3 Forms\obj\Debug\net5.0-windows\14-3 Forms.pdb
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-3 Forms\obj\Debug\net5.0-windows\14-3 Forms.genruntimeconfig.cache
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-3 Forms\obj\Debug\net5.0-windows\ref\14-3 Forms.dll

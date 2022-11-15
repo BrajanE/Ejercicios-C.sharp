@@ -1,0 +1,23 @@
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 PruebaForms\bin\Debug\net5.0-windows\14-5 PruebaForms.exe
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 PruebaForms\bin\Debug\net5.0-windows\14-5 PruebaForms.deps.json
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 PruebaForms\bin\Debug\net5.0-windows\14-5 PruebaForms.runtimeconfig.json
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 PruebaForms\bin\Debug\net5.0-windows\14-5 PruebaForms.runtimeconfig.dev.json
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 PruebaForms\bin\Debug\net5.0-windows\14-5 PruebaForms.dll
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 PruebaForms\bin\Debug\net5.0-windows\14-5 PruebaForms.pdb
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 PruebaForms\obj\Debug\net5.0-windows\14-5 PruebaForms.csproj.AssemblyReference.cache
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 PruebaForms\obj\Debug\net5.0-windows\_14_5_PruebaForms.FrmLLamador.resources
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 PruebaForms\obj\Debug\net5.0-windows\_14_5_PruebaForms.FrmMenu.resources
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 PruebaForms\obj\Debug\net5.0-windows\_14_5_PruebaForms.FrmMostrar.resources
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 PruebaForms\obj\Debug\net5.0-windows\14-5 PruebaForms.csproj.GenerateResource.cache
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 PruebaForms\obj\Debug\net5.0-windows\14-5 PruebaForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 PruebaForms\obj\Debug\net5.0-windows\14-5 PruebaForms.AssemblyInfoInputs.cache
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 PruebaForms\obj\Debug\net5.0-windows\14-5 PruebaForms.AssemblyInfo.cs
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 PruebaForms\obj\Debug\net5.0-windows\14-5 PruebaForms.csproj.CoreCompileInputs.cache
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 PruebaForms\obj\Debug\net5.0-windows\14-5 PruebaForms.dll
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 PruebaForms\obj\Debug\net5.0-windows\refint\14-5 PruebaForms.dll
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 PruebaForms\obj\Debug\net5.0-windows\14-5 PruebaForms.pdb
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 PruebaForms\obj\Debug\net5.0-windows\14-5 PruebaForms.genruntimeconfig.cache
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 PruebaForms\obj\Debug\net5.0-windows\ref\14-5 PruebaForms.dll
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 PruebaForms\bin\Debug\net5.0-windows\14-5 Entidades.dll
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 PruebaForms\bin\Debug\net5.0-windows\14-5 Entidades.pdb
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 PruebaForms\obj\Debug\net5.0-windows\14-5 PruebaForms.csproj.CopyComplete

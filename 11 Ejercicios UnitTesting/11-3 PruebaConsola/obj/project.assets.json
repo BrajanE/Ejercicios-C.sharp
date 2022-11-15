@@ -11,6 +11,16 @@
         "runtime": {
           "bin/placeholder/11-3 Entidades.dll": {}
         }
+      },
+      "14-4 IO-Consola/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/14-4 IO-Consola.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/14-4 IO-Consola.dll": {}
+        }
       }
     }
   },
@@ -19,11 +29,17 @@
       "type": "project",
       "path": "../11-3 Entidades/11-3 Entidades.csproj",
       "msbuildProject": "../11-3 Entidades/11-3 Entidades.csproj"
+    },
+    "14-4 IO-Consola/1.0.0": {
+      "type": "project",
+      "path": "../../14 Ejercicios Archivos/14-4 IO-Consola/14-4 IO-Consola.csproj",
+      "msbuildProject": "../../14 Ejercicios Archivos/14-4 IO-Consola/14-4 IO-Consola.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "11-3 Entidades >= 1.0.0"
+      "11-3 Entidades >= 1.0.0",
+      "14-4 IO-Consola >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -55,6 +71,9 @@
           "projectReferences": {
             "C:\\Users\\estra\\Documents\\C#\\Ejercitacion\\11 Ejercicios UnitTesting\\11-3 Entidades\\11-3 Entidades.csproj": {
               "projectPath": "C:\\Users\\estra\\Documents\\C#\\Ejercitacion\\11 Ejercicios UnitTesting\\11-3 Entidades\\11-3 Entidades.csproj"
+            },
+            "C:\\Users\\estra\\Documents\\C#\\Ejercitacion\\14 Ejercicios Archivos\\14-4 IO-Consola\\14-4 IO-Consola.csproj": {
+              "projectPath": "C:\\Users\\estra\\Documents\\C#\\Ejercitacion\\14 Ejercicios Archivos\\14-4 IO-Consola\\14-4 IO-Consola.csproj"
             }
           }
         }

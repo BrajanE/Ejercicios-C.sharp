@@ -1,0 +1,20 @@
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-1 ListaForms\obj\Debug\net5.0-windows\15-1 ListaForms.csproj.AssemblyReference.cache
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-1 ListaForms\obj\Debug\net5.0-windows\_15_1_ListaForms.FrmAltaModificacion.resources
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-1 ListaForms\obj\Debug\net5.0-windows\15-1 ListaForms.csproj.GenerateResource.cache
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-1 ListaForms\obj\Debug\net5.0-windows\15-1 ListaForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-1 ListaForms\obj\Debug\net5.0-windows\15-1 ListaForms.AssemblyInfoInputs.cache
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-1 ListaForms\obj\Debug\net5.0-windows\15-1 ListaForms.AssemblyInfo.cs
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-1 ListaForms\obj\Debug\net5.0-windows\15-1 ListaForms.csproj.CoreCompileInputs.cache
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-1 ListaForms\bin\Debug\net5.0-windows\15-1 ListaForms.exe
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-1 ListaForms\bin\Debug\net5.0-windows\15-1 ListaForms.deps.json
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-1 ListaForms\bin\Debug\net5.0-windows\15-1 ListaForms.runtimeconfig.json
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-1 ListaForms\bin\Debug\net5.0-windows\15-1 ListaForms.runtimeconfig.dev.json
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-1 ListaForms\bin\Debug\net5.0-windows\15-1 ListaForms.dll
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-1 ListaForms\bin\Debug\net5.0-windows\15-1 ListaForms.pdb
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-1 ListaForms\obj\Debug\net5.0-windows\15-1 ListaForms.dll
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-1 ListaForms\obj\Debug\net5.0-windows\refint\15-1 ListaForms.dll
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-1 ListaForms\obj\Debug\net5.0-windows\15-1 ListaForms.pdb
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-1 ListaForms\obj\Debug\net5.0-windows\15-1 ListaForms.genruntimeconfig.cache
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-1 ListaForms\obj\Debug\net5.0-windows\ref\15-1 ListaForms.dll
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-1 ListaForms\obj\Debug\net5.0-windows\_15_1_ListaForms.FrmListaSuper.resources
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-1 ListaForms\obj\Debug\net5.0-windows\_15_1_ListaForms.Properties.Resources.resources

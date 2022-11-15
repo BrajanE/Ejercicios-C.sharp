@@ -1,0 +1,21 @@
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-5 FromsNotepad\bin\Debug\net5.0-windows\15-5 FromsNotepad.exe
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-5 FromsNotepad\bin\Debug\net5.0-windows\15-5 FromsNotepad.deps.json
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-5 FromsNotepad\bin\Debug\net5.0-windows\15-5 FromsNotepad.runtimeconfig.json
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-5 FromsNotepad\bin\Debug\net5.0-windows\15-5 FromsNotepad.runtimeconfig.dev.json
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-5 FromsNotepad\bin\Debug\net5.0-windows\15-5 FromsNotepad.dll
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-5 FromsNotepad\bin\Debug\net5.0-windows\15-5 FromsNotepad.pdb
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-5 FromsNotepad\obj\Debug\net5.0-windows\15-5 FromsNotepad.csproj.AssemblyReference.cache
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-5 FromsNotepad\obj\Debug\net5.0-windows\_15_5_FromsNotepad.FrmNote.resources
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-5 FromsNotepad\obj\Debug\net5.0-windows\15-5 FromsNotepad.csproj.GenerateResource.cache
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-5 FromsNotepad\obj\Debug\net5.0-windows\15-5 FromsNotepad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-5 FromsNotepad\obj\Debug\net5.0-windows\15-5 FromsNotepad.AssemblyInfoInputs.cache
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-5 FromsNotepad\obj\Debug\net5.0-windows\15-5 FromsNotepad.AssemblyInfo.cs
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-5 FromsNotepad\obj\Debug\net5.0-windows\15-5 FromsNotepad.csproj.CoreCompileInputs.cache
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-5 FromsNotepad\obj\Debug\net5.0-windows\15-5 FromsNotepad.dll
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-5 FromsNotepad\obj\Debug\net5.0-windows\refint\15-5 FromsNotepad.dll
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-5 FromsNotepad\obj\Debug\net5.0-windows\15-5 FromsNotepad.pdb
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-5 FromsNotepad\obj\Debug\net5.0-windows\15-5 FromsNotepad.genruntimeconfig.cache
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-5 FromsNotepad\obj\Debug\net5.0-windows\ref\15-5 FromsNotepad.dll
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-5 FromsNotepad\bin\Debug\net5.0-windows\15-5 IO.dll
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-5 FromsNotepad\bin\Debug\net5.0-windows\15-5 IO.pdb
+C:\Users\estra\Documents\C#\Ejercitacion\15 Ejercicios Serializacion Xml-Json\15-5 FromsNotepad\obj\Debug\net5.0-windows\15-5 FromsNotepad.csproj.CopyComplete

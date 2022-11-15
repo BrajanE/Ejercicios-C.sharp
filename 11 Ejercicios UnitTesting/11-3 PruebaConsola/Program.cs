@@ -1,5 +1,7 @@
 ﻿using System;
+using System.IO;
 using _11_3_Entidades;
+using _14_4_IO_Consola;
 
 namespace _11_3_PruebaConsola
 {
@@ -7,16 +9,17 @@ namespace _11_3_PruebaConsola
     {
         static void Main(string[] args)
         {
+            string ruta = Directory.GetCurrentDirectory() + DateTime.Now.ToString("yyyyMMdd")+".txt";
             try
             {
                 MiClase prueba = new MiClase();
             }
             catch (MiExcepcion ex)
             {
-                Console.WriteLine("Error en Consola\n" + ex.Message);
+                _14_4_ArchivoTexto.Guardar($"{ex.Message}",$"{ruta}");
             }
 
-            Console.WriteLine("\n**********\n");
+            Console.WriteLine(_14_4_ArchivoTexto.Leer($"{ruta}"));
 
             try
             {
@@ -24,8 +27,10 @@ namespace _11_3_PruebaConsola
             }
             catch (UnaExcepcion ex)
             {
-                Console.WriteLine("Error en Consola\n" + ex.Message);
+                _14_4_ArchivoTexto.Guardar($"{ex.Message}", $"{ruta}");
             }
+            Console.WriteLine("********************");
+            Console.WriteLine(_14_4_ArchivoTexto.Leer($"{ruta}"));
         }
     }
 }

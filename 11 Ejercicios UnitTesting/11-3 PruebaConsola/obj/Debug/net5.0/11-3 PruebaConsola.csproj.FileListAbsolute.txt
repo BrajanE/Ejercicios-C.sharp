@@ -17,3 +17,9 @@ C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-3 PruebaCo
 C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-3 PruebaConsola\obj\Debug\net5.0\11-3 PruebaConsola.pdb
 C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-3 PruebaConsola\obj\Debug\net5.0\11-3 PruebaConsola.genruntimeconfig.cache
 C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-3 PruebaConsola\obj\Debug\net5.0\ref\11-3 PruebaConsola.dll
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-3 PruebaConsola\bin\Debug\net5.0\14-4 IO-Consola.deps.json
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-3 PruebaConsola\bin\Debug\net5.0\14-4 IO-Consola.runtimeconfig.json
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-3 PruebaConsola\bin\Debug\net5.0\14-4 IO-Consola.runtimeconfig.dev.json
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-3 PruebaConsola\bin\Debug\net5.0\14-4 IO-Consola.exe
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-3 PruebaConsola\bin\Debug\net5.0\14-4 IO-Consola.dll
+C:\Users\estra\Documents\C#\Ejercitacion\11 Ejercicios UnitTesting\11-3 PruebaConsola\bin\Debug\net5.0\14-4 IO-Consola.pdb

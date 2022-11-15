@@ -1,0 +1,12 @@
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 Entidades\bin\Debug\net5.0\14-5 Entidades.deps.json
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 Entidades\bin\Debug\net5.0\14-5 Entidades.dll
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 Entidades\bin\Debug\net5.0\14-5 Entidades.pdb
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 Entidades\obj\Debug\net5.0\14-5 Entidades.csproj.AssemblyReference.cache
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 Entidades\obj\Debug\net5.0\14-5 Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 Entidades\obj\Debug\net5.0\14-5 Entidades.AssemblyInfoInputs.cache
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 Entidades\obj\Debug\net5.0\14-5 Entidades.AssemblyInfo.cs
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 Entidades\obj\Debug\net5.0\14-5 Entidades.csproj.CoreCompileInputs.cache
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 Entidades\obj\Debug\net5.0\14-5 Entidades.dll
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 Entidades\obj\Debug\net5.0\refint\14-5 Entidades.dll
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 Entidades\obj\Debug\net5.0\14-5 Entidades.pdb
+C:\Users\estra\Documents\C#\Ejercitacion\14 Ejercicios Archivos\14-5 Entidades\obj\Debug\net5.0\ref\14-5 Entidades.dll

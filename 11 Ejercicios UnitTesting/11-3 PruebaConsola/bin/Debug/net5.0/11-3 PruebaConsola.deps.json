@@ -15,6 +15,11 @@
         "runtime": {
           "11-3 Entidades.dll": {}
         }
+      },
+      "14-4 IO-Consola/1.0.0": {
+        "runtime": {
+          "14-4 IO-Consola.dll": {}
+        }
       }
     }
   },
@@ -25,6 +30,11 @@
       "sha512": ""
     },
     "11-3 Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "14-4 IO-Consola/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

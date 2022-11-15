@@ -99,10 +99,6 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "MSTest.TestAdapter": {
-              "target": "Package",
-              "version": "[2.2.8, )"
-            },
             "MSTest.TestFramework": {
               "target": "Package",
               "version": "[2.2.8, )"

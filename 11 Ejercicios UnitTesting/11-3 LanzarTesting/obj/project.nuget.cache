@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hDfGjgzjg5l/UfC54rs45H4GcwLaxGOiiExDWfKHkZtuNIF8581N5WjnpastPfPtTfyPInmuK9vjMSemb+/2sQ==",
+  "dgSpecHash": "jsI4FJQUY2+vW2jqTsQMzCmPnv54erXjLGR4lchGi3cumZNO9W148Svzytm60NBLJME6gYRfJVcXaQi04ora7w==",
   "success": true,
   "projectFilePath": "C:\\Users\\estra\\Documents\\C#\\Ejercitacion\\11 Ejercicios UnitTesting\\11-3 LanzarTesting\\11-3 LanzarTesting.csproj",
   "expectedPackageFiles": [
@@ -13,7 +13,6 @@
     "C:\\Users\\estra\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.1.0\\microsoft.testplatform.objectmodel.17.1.0.nupkg.sha512",
     "C:\\Users\\estra\\.nuget\\packages\\microsoft.testplatform.testhost\\17.1.0\\microsoft.testplatform.testhost.17.1.0.nupkg.sha512",
     "C:\\Users\\estra\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
-    "C:\\Users\\estra\\.nuget\\packages\\mstest.testadapter\\2.2.8\\mstest.testadapter.2.2.8.nupkg.sha512",
     "C:\\Users\\estra\\.nuget\\packages\\mstest.testframework\\2.2.8\\mstest.testframework.2.2.8.nupkg.sha512",
     "C:\\Users\\estra\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\estra\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
